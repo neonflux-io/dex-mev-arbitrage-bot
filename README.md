@@ -4,11 +4,7 @@ A blazing-fast MEV Arbitrage Bot built with Rust and Solidity is now available a
 
 ## Contact me
 
-Telegram: [@dwlee918](https://t.me/@dwlee918)
-
-X: [@dwlee918](https://x.com/dwlee918)
-
-Github: [@solguru310](https://github.com/solguru310)
+Telegram: [@wb_ts2](https://t.me/@wb_ts2)
 
 
 ## Getting Started
